@@ -1,0 +1,4 @@
+# Project exclude paths
+/rabbit-api/target/
+/rabbit-core-producer/target/
+/rabbit-task/target/
